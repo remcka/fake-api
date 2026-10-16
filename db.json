@@ -1,0 +1,11 @@
+{
+  "players": [
+    { "id": 1, "nickname": "Nazar", "level": 80 },
+    { "id": 2, "nickname": "GamerX", "level": 45 }
+  ],
+  "games": [
+    { "id": 1, "title": "Dota 2", "playerId": 1 },
+    { "id": 2, "title": "Counter-Strike 2", "playerId": 1 },
+    { "id": 3, "title": "Brawl Stars", "playerId": 2 }
+  ]
+}
